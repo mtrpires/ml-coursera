@@ -1,7 +1,7 @@
 # [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 
-# Marco Túlio Pires (mtrpires@)
+### Marco Túlio Pires (mtrpires@)
 
 
 # Week 1
